@@ -799,7 +799,7 @@
         },
         {
             "name": "slim/psr7",
-            "version": "0.6",
+            "version": "1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/slimphp/Slim-Psr7.git",
@@ -1246,7 +1246,7 @@
         },
         {
             "name": "twig/twig",
-            "version": "v2.12.1",
+            "version": "v2.15.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
